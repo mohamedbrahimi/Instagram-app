@@ -1,0 +1,16 @@
+body{
+background: linear-gradient(to bottom right, #50a3a2 0%, #53e3a6 100%);
+height: 638px;
+}
+input{
+    background-color:  rgba(240, 248, 255, 0.11) !important;
+    font-size: larger !important;
+    color: azure !important;
+}
+label{
+	    color: white;
+}
+
+.panel{
+	background:rgba(127, 255, 212, 0.17);
+}
